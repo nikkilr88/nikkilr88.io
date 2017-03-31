@@ -103,14 +103,12 @@ input {
 }
 
 #default {
-  display: block;
-  position: absolute;
-  text-align: center;
-  width: 100%;
-  top: 50%;
-  font-family: Roboto;
-  color: rgba(0, 0, 0, 0.2);
-}
+    display: block;
+    text-align: center;
+   padding: 30px 0 50px 0;
+    font-family: Roboto;
+    color: rgba(0, 0, 0, 0.2);
+  }
 #default img {
   height: 150px;
 }

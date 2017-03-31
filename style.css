@@ -144,7 +144,7 @@ input {
 }
 
 footer {
-  display: flex;
+  display: none;
   padding: 25px 0;
   background: #48638e;
   width: 100%;
